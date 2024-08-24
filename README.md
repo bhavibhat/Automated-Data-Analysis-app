@@ -34,3 +34,8 @@ Smart Data Analysis and Predictive Modeling Apllication </h3></b>
 
 
 ![s3](https://github.com/user-attachments/assets/9764d479-3c91-43e7-a469-c15c9c0160ad)
+
+![image](https://github.com/user-attachments/assets/22c4ff25-085b-4e9b-95a9-679018f037e9)
+
+![image](https://github.com/user-attachments/assets/ba12e7b2-2c6a-49f9-b1aa-a7cad71926cb)
+
