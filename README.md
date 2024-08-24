@@ -26,9 +26,11 @@ Smart Data Analysis and Predictive Modeling Apllication </h3></b>
   <li> Ydata-Profiling </li> </ol> 
 
   <h3><b>Screenshots</b></h3>
-  ![image](https://github.com/user-attachments/assets/aa9afa8f-b115-462b-9841-221b861089e7)
-  ![image](https://github.com/user-attachments/assets/59138965-dbc1-4766-a526-b276bbaf8e59)
-  ![image](https://github.com/user-attachments/assets/cb146d58-830b-47a7-a175-6e88e3a9f47d)
+
+  ![s1](https://github.com/user-attachments/assets/dc15396b-4735-41ab-b104-eacec19c9e48)
+
+  
+![s2](https://github.com/user-attachments/assets/004c2250-b625-42a6-b090-33a3bec64d44)
 
 
-
+![s3](https://github.com/user-attachments/assets/9764d479-3c91-43e7-a469-c15c9c0160ad)
