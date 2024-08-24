@@ -16,7 +16,7 @@ Smart Data Analysis and Predictive Modeling Apllication </h3></b>
 <p>You can customize the look and feel of the application by modifying the Streamlit configuration file .streamlit/config.toml.</p>
 
 <h3>Dependencies</h3>
-- Python 3.7+
+ *Python 3.7+
 - Streamlit
 - Pandas
 - NumPy
