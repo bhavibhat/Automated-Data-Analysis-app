@@ -24,3 +24,7 @@ Smart Data Analysis and Predictive Modeling Apllication </h3></b>
  <li> Matplotlib </li>
   <li>Seaborn</li>
   <li> Ydata-Profiling </li> </ol> 
+
+  <h3><b>Screenshots</b></h3>
+  
+![interns3](https://github.com/user-attachments/assets/8a6d3ea0-5f1b-48af-8b8e-7064a5557366)
