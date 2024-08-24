@@ -12,3 +12,15 @@ Smart Data Analysis and Predictive Modeling Apllication </h3></b>
  <br>7.Classification Models: Logistic Regression, Decision Tree, SVM, Random Forest.</br>
  <br>8.Model Evaluation: Evaluates the model using various metrics and displays the results.</br>
  <br>9.Downloadable Reports: Users can download the entire analysis report.</br>
+<h3>Configuration</h3>
+<p>You can customize the look and feel of the application by modifying the Streamlit configuration file .streamlit/config.toml.</p>
+
+<h3>Dependencies</h3>
+- Python 3.7+
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Ydata-Profiling
