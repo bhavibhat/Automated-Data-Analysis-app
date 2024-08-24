@@ -16,11 +16,11 @@ Smart Data Analysis and Predictive Modeling Apllication </h3></b>
 <p>You can customize the look and feel of the application by modifying the Streamlit configuration file .streamlit/config.toml.</p>
 
 <h3>Dependencies</h3>
-1. Python 3.7+
-2. Streamlit
-3. Pandas
-4. NumPy
-5. Scikit-learn
-6. Matplotlib
-7. Seaborn
-8. Ydata-Profiling
+<ol> <li> Python 3.7+ </li>
+ <li> Streamlit </li>
+  <li> Pandas </li>
+ <li> NumPy </li>
+  <li>Scikit-learn </li>
+ <li> Matplotlib </li>
+  <li>Seaborn</li>
+  <li> Ydata-Profiling </li> </ol> 
